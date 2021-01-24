@@ -3,14 +3,14 @@
 I created this using NextJS as a test application to showcase a built in video file uploader for the final project at the School of Code.\
 <br/>
 [View Demo](***/)\
-<br/><br/>
+<br/>
 
 ## Details
 
 The final project at the School of Code was a video platform which hosted lectures and the meta data associated with them. I built this video file uploader to improve usability of the site, preventing users from having to navigate away from the page to upload content to the platform.\
 It was built using NextJS and utilises the vimeo api on the frontend to send content to the associated account. In this example the filename can also be set. I created a simple uploader status using hooks which monitors the upload process and resets after it has finished.
 
-<br/><br/>
+<br/>
 
 ## Built With
 
@@ -55,7 +55,7 @@ A .env.local file in the root folder
    ```sh
    npm run dev
    ```
-   <br/><br/>
+   <br/>
 
 ## Usage
 
