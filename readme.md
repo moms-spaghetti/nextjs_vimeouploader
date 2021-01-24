@@ -2,7 +2,7 @@
 
 I created this using NextJS as a test application to showcase a built in video file uploader for the final project at the School of Code.\
 <br/>
-[View Demo](***/)\
+[View Demo](https://nextjs-vimeouploader.vercel.app/)\
 <br/>
 
 ## Details
